@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 8" width="7" height="8">
+	<title>welcome book</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #a5a5a5 } 
+	</style>
+	<g id="welcome book">
+		<g id="padlock">
+			<g id="Group 27">
+				<path id="Path 43" fill-rule="evenodd" class="shp0" d="M0.44 4.1C0.44 2.3 1.91 0.83 3.71 0.83C5.52 0.83 6.99 2.29 6.99 4.1C6.99 5.9 5.52 7.37 3.71 7.37C1.91 7.37 0.44 5.9 0.44 4.1ZM2.19 4.1C2.19 4.94 2.87 5.62 3.71 5.62C4.56 5.62 5.24 4.93 5.24 4.09C5.24 3.26 4.56 2.57 3.71 2.57C2.87 2.57 2.19 3.26 2.19 4.1Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,78 @@
+*{
+	margin : 0px;
+	padding: 0px
+}
+
+div{
+	display: block;
+}
+
+.background{
+	width: 500px;
+
+}
+
+.field{
+	font-family: 'Poppins', sans-serif;
+	margin: 10px;
+	background-color:#76E482 ;
+	padding: 10px;
+	border-radius: 5px;
+	width: 500px;
+	border: 2px solid #316C45;
+	font-size: 25px;
+	
+}
+
+.field-comment{
+	font-family: 'Poppins', sans-serif;;
+	margin: 10px;
+	background-color:#76E482 ;
+	padding: 10px;
+	border-radius: 5px;
+	width: 500px;
+	border: 2px solid #316C45;
+	font-size: 25px;
+	}
+
+.field-comment textarea{
+	 background-color:#D6DE81;
+  padding: 5px;
+  border-radius: 3px;
+  border:  1px solid #C6E4BC;
+  margin-right: 3px;
+  width: 450px;
+
+}
+
+
+.button input{
+	color: black;
+	margin: 10px;
+	background-color:#76E482 ;
+	padding: 10px;
+	border-radius: 5px;
+	width: 523px;
+	border: none;
+	border: 2px solid #316C45;
+	font-size: 20px;
+}
+input[type="text"],input[type="email"]{
+  
+  background-color:#D6DE81;
+  padding: 5px;
+  border-radius: 3px;
+  border:  1px solid #C6E4BC;
+  margin-right: 3px;
+  width: 450px;
+
+
+}
+div input {
+	margin-left: 4px;
+}
+
+div textarea {
+	margin-left: 4px;
+}
+

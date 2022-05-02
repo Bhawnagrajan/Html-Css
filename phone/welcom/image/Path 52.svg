@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 25" width="24" height="25">
+	<title>welcome book</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #225dd9 } 
+	</style>
+	<g id="welcome book">
+		<g id="success">
+			<path id="Path 52" fill-rule="evenodd" class="shp0" d="M23.18 12.41C23.18 18.8 17.98 24 11.59 24C5.2 24 0 18.8 0 12.41C0 6.02 5.2 0.82 11.59 0.82C17.98 0.82 23.18 6.02 23.18 12.41ZM17.97 7.29C17.61 6.96 17.04 6.99 16.72 7.36L10.15 14.75L6.35 11.72C5.97 11.41 5.4 11.47 5.1 11.86C4.79 12.24 4.85 12.8 5.24 13.11L9.69 16.67C9.86 16.8 10.05 16.87 10.25 16.87C10.5 16.87 10.74 16.77 10.92 16.57L18.05 8.55C18.38 8.18 18.34 7.62 17.97 7.29Z" />
+		</g>
+	</g>
+</svg>

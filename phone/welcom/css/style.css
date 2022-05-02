@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.wrap{
+    width:374px ;
+    height: 800px;
+    border: 1px solid #000;
+    background-color:#fff;
+    margin: 0% auto;
+    position: relative;
+}
+.head img{
+    margin-left: 31px;
+    margin-top: 26px;
+
+}
+.heading h2{
+    margin: 13px 72px 17px 66px;
+    font-size: 30px;
+}
+.heading p{
+    color: #818593;
+    font-size: 17px;
+    text-align: center;
+}
+.image img{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+form{
+    margin-top: 28px;
+}
+.email{
+    display: flex;
+    width: 300px;
+    margin-left: 38px;
+    border-bottom: 2px solid #225dd9;
+}
+.email input{
+    margin-left: 20px;
+    border: none;
+    /* border-bottom: 2px solid #225dd9; */
+    color: #225dd9;
+    font-size: 18px;
+    font-weight: 400;
+}
+.email input :active{
+    border: none;
+}
+.emailcross{
+    position: relative;
+    margin-left: -25px;
+    margin-top: 2px;
+}
+.pswd{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 38px;
+    width: 300px;
+    border-bottom: 2px solid #225dd9;
+}
+.lockcircle{
+    margin-top: 13px;
+    margin-left: -16px;
+}
+.pswd input{
+    margin-left: 20px;
+    border: none;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.pswd input:active{
+    border: none;
+}
+form p{
+    color: #818593;
+    font-size: 17px;
+    margin-top: 17px;
+    text-align: right;
+    font-weight: 550;
+    margin-right: 35px;   
+}
+.buttons{
+    /* margin: 48px 24px; */
+    display: flex;
+    flex-direction: column;
+}
+.btn1
+{ padding: 14px 52px;
+    border-radius: 84px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #225dd9;
+    border: 1px solid #1770ac;
+    /* margin: 0 2px; */
+    width: 190px;
+    margin: 0% auto;
+    margin-top: 33px;
+
+}
+.btn2{
+    padding: 14px 45px;
+    border-radius: 84px;
+    font-size: 18px;
+    margin: 0 2px;
+    color: #225dd9;
+    background-color: #fff;
+    border: none;
+    font-weight: 550;
+    width: 220px;
+    margin: 0% auto;
+
+}
+.buttons p{
+    color: #818593;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 15px;
+}
+.circle{
+    margin-left: 114px;
+    margin-right: 80px;
+    margin-top: 13px;
+}
+
+.icon{
+    margin-top: 12px;
+        margin-left:-29px;
+    position: absolute;
+}
+.G {
+    margin-left: 6px;
+    margin-right: 5px;
+}
+
+

@@ -1,0 +1,39 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 122" width="1920" height="122">
+	<title>Header</title>
+	<defs>
+		<image  width="22" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAAXNSR0IB2cksfwAAAUpQTFRFu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7xGOFVQAAAG50Uk5TAAc8i8/q7dOWRgoptvj//r43O9/8+uxPKOK9cU1IarDwNQiu9HoNBmbnx0eDVvVZkrwMAaOxzG395AlFMfEi60Mr7x7QaVTeBZ2stFH3Z0Lz7kTaM6RdLypY+TlS5TjBPQ5as+jdtRLmOhrW8tIuSXvuAAABFElEQVR4nGWRZ1fCMBSG4yjW0RepitZZcYCjIo5KcYuKW3Ergnvg+P9fzU1awjm8H5Inz8nNZIynrr6hUQs16c0trCqtbQZEwu0RZc0OUp1d1Ea7A9tj8WFvX//A4BAHe1ja2AgwOjZOGE9MAJMC2RRfdzqodGaApKBZIDUX6PkFYFGQCyyp7ZNpeBkCD8ay0iuriK4RrMPYUHpzC1qWYBvYUXo3jdwewT5wEK9sqQOHgo6A45NAn54BjrxOCshLZOcXgJuRfBnid766vrm90+855Qp+5YNNj2Tnw/IZi6bvS4/w43q8sZ58//zyamlv7x/Op/lF88uVA8ey36IviPlVv+GnTP6nRrNSEfit1SzyZyf+Afs8JA++jYOlAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.6;fill: #49473f } 
+		.txt1 { font-size: 15px;line-height: 31px;fill: #ffffff;font-weight: 400;font-family: "Montserrat-Regular", "Montserrat" } 
+		.txt2 { font-size: 15px;line-height: 31px;fill: #18cfab;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.shp3 { fill: #18cfab } 
+		.txt4 { font-size: 40px;line-height: 31px;fill: #ffffff;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.txt5 { font-size: 13px;line-height: 42px;fill: #18cfab;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.txt6 { font-size: 13px;line-height: 42px;fill: #22b4ff;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.txt7 { font-size: 13px;line-height: 42px;fill: #b8b8b8;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+	</style>
+	<g id="Header">
+		<path id="Rectangle 4" class="shp0" d="M0 0L1920 0L1920 120L0 120L0 0Z" />
+		<g id="Logo">
+			<text id="theHam" style="transform: matrix(2.071,0,0,2.074,454.855,74.307)" >
+				<tspan x="0" y="0" class="txt1">the</tspan><tspan  y="0" class="txt2">Ham
+</tspan>
+			</text>
+			<path id="Polygon 1" class="shp3" d="M447 77.83L418.49 95L389.49 78.67L389 45.17L417.51 28L446.51 44.33L447 77.83Z" />
+			<text id="H" style="transform: matrix(1,0,0,1,402,75.778)" >
+				<tspan x="0" y="0" class="txt4">H</tspan><tspan  y="0" class="txt4">
+</tspan>
+			</text>
+		</g>
+		<g id="Menu">
+			<text id="home      about      skills      service      work      testimo" style="transform: matrix(1,0,0,1,877.5,65.485)" >
+				<tspan x="0" y="0" class="txt5">HOME</tspan><tspan  y="0" class="txt6">      </tspan><tspan  y="0" class="txt7">ABOUT      SKILLS      SERVICE      WORK      TESTIMONIAL      BLOG    TEAM     CONTACT
+</tspan>
+			</text>
+			<path id="Rectangle 70" class="shp3" d="M879 120L918 120L918 122L879 122L879 120Z" />
+		</g>
+		<use id="Search icon" href="#img1" x="1507" y="49" />
+	</g>
+</svg>
